@@ -1,4 +1,4 @@
-### Olá! Eu sou o Gabriel Ferreira M.
+### Olá! Eu sou o Gabriel Ferreira Mendes
 
 - 🔭 Hoje trabalho como dev full-stack e instrutor na Universidade Sankhya
 - 📫 Contate-me no LinkedIn: www.linkedin.com/in/gabriel-ferreira-mendes
