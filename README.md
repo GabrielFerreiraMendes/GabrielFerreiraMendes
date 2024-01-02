@@ -3,6 +3,7 @@
 🚀Engenheiro de software Sênior | Desenvolvedor Full-Stack| Entusiasta de Agilidade | Mentor 🌟
 
 💼 Experiência: 9 anos e 9 meses
+
 📧 E-mail: gabrielferreiramendes.dev@gmail.com
 
 🚀 Habilidades Técnicas:
