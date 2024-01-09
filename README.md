@@ -1,5 +1,5 @@
 ### Olá! Eu sou o Gabriel Ferreira Mendes
-🚀ngenheiro de Software Sênior | Desenvolvedor Full-Stack | Delphi | Java | Spring Framework | Angular | AngularJS | Dart & Flutter | Entusiasta de Agile | Mentor de jovens talentos 🌟
+🚀 Engenheiro de Software Sênior | Desenvolvedor Full-Stack | Delphi | Java | Spring Framework | Angular | AngularJS | Dart & Flutter | Entusiasta de Agile | Mentor de jovens talentos 🌟
 
 ##
 
