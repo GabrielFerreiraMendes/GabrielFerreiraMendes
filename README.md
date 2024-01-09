@@ -17,7 +17,7 @@
 
 ##
 
-### 🚀 Habilidades Técnicas:
+### ⚙️ Habilidades Técnicas:
 
 - Linguagens: Dart, Delphi, Go, Java, JavaScript, TypeScript
 - Frameworks: Spring Framework, Angular, AngularJS, Flutter
