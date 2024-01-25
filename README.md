@@ -39,7 +39,8 @@ Minhas habilidades com Dart, Delphi, Java, JavaScript e TypeScript, aliadas aos 
 
 ![image](https://github.com/GabrielFerreiraMendes/GabrielFerreiraMendes/assets/14356303/cde8ab80-e131-4ee6-bf23-17f772860763)
 
-RecruTest: https://jobs.recrutei.com.br/evoluir-recruiter/vacancy/56748-desenvolvedor-java-backend?utm_source=linkedin-jobboard
+#### DESCRIÇÃO DETALHADA
+Dessa forma, o Realizador precisa enxergar como as metas pessoais podem estar ligadas as metas da empresa. Os Realizadores gostam de ter a vida sob rédeas, e dessa forma acabam desenvolvendo um forte senso de responsabilidade. Os Realizadores demonstram grande interesse em seu trabalho, e tem contínua busca por realização pessoal. Possuem uma opinião positiva sobre o trabalho a ser realizado e tem dificuldade em delegar quando estão sob pressão. Nessas situações, o Realizador tende a assumir toda a carga de trabalho para garantir que as coisas sejam feitas da maneira certa. Quando delegam, têm a tendência de assumir novamente a tarefa caso a qualidade da entrega não esteja de acordo com suas expectativas. A premissa que os guia é: "Se der certo, eu quero o crédito. Mas se der errado, assumo a culpa". Um Realizador deve se relacionar mais para que seu comportamento centralizador seja quebrado. Além disso, um realizador pode precisar de ajuda para novas abordagens que o auxiliem a atingir suas metas. Os Realizadores tendem a trabalhar sempre visando a eficiência máxima, e querem reconhecimento por sua contribuição: em empresas privadas isso pode ser demonstrado por altos cargos e salários e em organizações sem fim lucrativo a recompensa pode ser vista como um cargo de liderança.
 
 
 ##
