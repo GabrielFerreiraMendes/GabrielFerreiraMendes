@@ -35,6 +35,15 @@ Minhas habilidades com Dart, Delphi, Java, JavaScript e TypeScript, aliadas aos 
 
 ##
 
+### Perfil: Realizador
+
+![image](https://github.com/GabrielFerreiraMendes/GabrielFerreiraMendes/assets/14356303/cde8ab80-e131-4ee6-bf23-17f772860763)
+
+RecruTest: https://jobs.recrutei.com.br/evoluir-recruiter/vacancy/56748-desenvolvedor-java-backend?utm_source=linkedin-jobboard
+
+
+##
+
 ### 🎯 Metodologias:
 
 Com experencia comprovada como Agile Master, auxiliei no amadurecimento ágil de 4 times (cerca de 28 pessoas). Disseminando e apoiando na aplicação de metodologias ágeis como o Scrum, o Kanban e XP para garantir entregas eficientes e de alta qualidade. 
